@@ -1,0 +1,575 @@
+{
+  "Satellite": "SatelliteXYZ",
+  "TemperatureReadings": [
+    {
+      "Date": "2024-06-11",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 30
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 40
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 25
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 20
+      }
+    },
+    {
+      "Date": "2024-06-12",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 28
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 38
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 24
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 18
+      }
+    },
+    {
+      "Date": "2024-06-13",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 24
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 34
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 24
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 17
+      }
+    },
+    {
+      "Date": "2024-06-14",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 31
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 36
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 30
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 16
+      }
+    },
+    {
+      "Date": "2024-06-15",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 24
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 32
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 28
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 22
+      }
+    },
+    {
+      "Date": "2024-06-16",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 21
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 38
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 24
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 19
+      }
+    },
+    {
+      "Date": "2024-06-17",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 29
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 30
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 23
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 23
+      }
+    },
+    {
+      "Date": "2024-06-18",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 32
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 32
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 24
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 17
+      }
+    },
+    {
+      "Date": "2024-06-19",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 21
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 38
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 21
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 16
+      }
+    },
+    {
+      "Date": "2024-06-20",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 22
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 31
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 22
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 16
+      }
+    },
+    {
+      "Date": "2024-06-21",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 31
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 44
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 29
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 19
+      }
+    },
+    {
+      "Date": "2024-06-22",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 34
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 30
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 24
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 17
+      }
+    },
+    {
+      "Date": "2024-06-23",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 21
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 41
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 29
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 21
+      }
+    },
+    {
+      "Date": "2024-06-24",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 34
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 33
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 29
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 21
+      }
+    },
+    {
+      "Date": "2024-06-25",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 32
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 34
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 28
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 25
+      }
+    },
+    {
+      "Date": "2024-06-26",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 27
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 41
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 30
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 21
+      }
+    },
+    {
+      "Date": "2024-06-27",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 23
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 31
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 30
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 19
+      }
+    },
+    {
+      "Date": "2024-06-28",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 21
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 45
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 23
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 24
+      }
+    },
+    {
+      "Date": "2024-06-29",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 32
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 40
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 20
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 16
+      }
+    },
+    {
+      "Date": "2024-06-30",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 31
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 42
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 22
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 25
+      }
+    },
+    {
+      "Date": "2024-07-01",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 34
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 30
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 29
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 20
+      }
+    },
+    {
+      "Date": "2024-07-02",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 34
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 37
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 26
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 21
+      }
+    },
+    {
+      "Date": "2024-07-03",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 24
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 38
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 23
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 15
+      }
+    },
+    {
+      "Date": "2024-07-04",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 28
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 36
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 28
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 17
+      }
+    },
+    {
+      "Date": "2024-07-05",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 27
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 32
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 24
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 19
+      }
+    },
+    {
+      "Date": "2024-07-06",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 34
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 42
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 20
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 17
+      }
+    },
+    {
+      "Date": "2024-07-07",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 30
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 32
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 29
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 24
+      }
+    },
+    {
+      "Date": "2024-07-08",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 29
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 31
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 30
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 21
+      }
+    },
+    {
+      "Date": "2024-07-09",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 21
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 38
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 28
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 19
+      }
+    },
+    {
+      "Date": "2024-07-10",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 33
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 33
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 29
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 20
+      }
+    }
+  ]
+}
