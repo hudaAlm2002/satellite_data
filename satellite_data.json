@@ -39501,6 +39501,25 @@
         "Unit": "Celsius",
         "Value": 18
       }
+    },
+    {
+      "Date": "2024-07-15 05:40:50",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 20
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 44
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 25
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 23
+      }
     }
   ]
 }
