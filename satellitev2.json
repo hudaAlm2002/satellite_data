@@ -1,0 +1,44 @@
+{
+  "Satellite": "SatelliteXYZ",
+  "TemperatureReadings": [
+    {
+      "Date": "2024-06-11",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 30
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 40
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 25
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 20
+      }
+    },
+    {
+      "Date": "2024-06-12",
+      "SolarPanels": {
+        "Unit": "Celsius",
+        "Value": 28
+      },
+      "ElectronicsBox": {
+        "Unit": "Celsius",
+        "Value": 38
+      },
+      "Antennas": {
+        "Unit": "Celsius",
+        "Value": 24
+      },
+      "ThermalBlanket": {
+        "Unit": "Celsius",
+        "Value": 18
+      }
+    },
+  ]
+}
+    
